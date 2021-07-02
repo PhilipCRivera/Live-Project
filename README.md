@@ -14,10 +14,8 @@ From these wireframes, my team and I were able to create mockups of our designs 
 
 a drop-down menu and buttons, as well as the overall look of the website. 
 
-From these mockups, we then went into the prototyping phase of our project. 
+From these mockups, we then went into the prototyping phase of our project. Using Adobe XD, I created anchor links to connect
 
-Using Adobe XD, I created anchor links to connect our pages together as well as created 
-
-hover animation effects for our buttons, navbar and drop-down menu. 
+our pages together as well as created hover animation effects for our buttons, navbar and drop-down menu. 
 
 Through great communication and hard work, my team was able to create a beautiful, responsive designed website for Theatre Vertigo. 
