@@ -1,8 +1,10 @@
 # Live Project
 
-Prosper IT Consulting gave my team and I the task to create a new website design for a theatre company called Theatre Vertigo. My team consisted of two designers, Hunter Lock and 
- 
- I, and our technical project manager, Lace Woodbury. Obstacles we faced included limited information from the client and time restriction of two weeks to complete our project. 
+Prosper IT Consulting gave my team and I the task to create a new website design for a theatre company called Theatre Vertigo. 
+
+My team consisted of two designers, Hunter Lock and  I, and our technical project manager, Lace Woodbury. Obstacles we faced included limited information from the client and time 
+
+restriction of two weeks to complete our project. 
 
 After coming up with a style guide, which included a color palette, font styles and sizes, my team and I got started on creating wireframes. Using Photoshop, I created wireframes 
 
