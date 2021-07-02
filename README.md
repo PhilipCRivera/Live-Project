@@ -1,5 +1,8 @@
 # Live Project
 
+
+
+
 # Prosper IT Consulting gave my team and I the task to create a new website design for a theatre company called Theatre Vertigo. 
 
 My team consisted of two designers, Hunter Lock and  I, and our technical project manager, Lace Woodbury. 
