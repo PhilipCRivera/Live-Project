@@ -10,12 +10,14 @@ After coming up with a style guide, which included a color palette, font styles 
 
 Using Photoshop, I created wireframes for what the layout of our website should look like. 
 
-From these wireframes, my team and I were able to create mockups of our designs which included a navigation bar, a footer, a drop-down menu and buttons,
+From these wireframes, my team and I were able to create mockups of our designs which included a navigation bar, a footer, 
 
-as well as the overall look of the website. 
+a drop-down menu and buttons, as well as the overall look of the website. 
 
-From these mockups, we then went into the prototyping phase of our project. Using Adobe XD, I created anchor links to connect our pages together
+From these mockups, we then went into the prototyping phase of our project. 
 
-as well as created hover animation effects for our buttons, navbar and drop-down menu. 
+Using Adobe XD, I created anchor links to connect our pages together as well as created 
+
+hover animation effects for our buttons, navbar and drop-down menu. 
 
 Through great communication and hard work, my team was able to create a beautiful, responsive designed website for Theatre Vertigo. 
